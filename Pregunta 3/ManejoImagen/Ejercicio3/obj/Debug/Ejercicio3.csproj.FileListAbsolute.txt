@@ -1,0 +1,9 @@
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.Cache
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
